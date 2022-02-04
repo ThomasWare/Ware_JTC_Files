@@ -1,2 +1,2 @@
-# Ware_-JTC_Files
-New Github repo for JTC projects.
+# Ware_JTC_Files
+New Github repo for JTC Spring 2022 projects.
